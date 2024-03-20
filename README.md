@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @WEBxSPIDY
+- 👀 I’m interested in coding for websites
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on project related to ecommerce
+- 📫 How to reach me through email
+--->
